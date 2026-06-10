@@ -1,6 +1,6 @@
 cask "proxy-switchboard" do
-  version "1.1.0"
-  sha256 "f6f8b742efdd98d19d8382f966c269e17c5974867b02b12460856771b3ec2a85"
+  version "1.1.1"
+  sha256 "72170fd280f0c09336419461fddbc18fb7d021eb1c81514bad79803a4de57b39"
 
   url "https://github.com/ptrinh/proxy-switchboard-dist/releases/download/v#{version}/Proxy-Switchboard-#{version}.zip"
   name "Proxy Switchboard"
