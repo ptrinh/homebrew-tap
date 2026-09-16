@@ -4,7 +4,7 @@ cask "proxy-switchboard" do
 
   url "https://github.com/ptrinh/proxy-switchboard-dist/releases/download/v#{version}/Proxy-Switchboard-#{version}.zip"
   name "Proxy Switchboard"
-  desc "Menu-bar app that routes macOS traffic per destination through proxies"
+  desc "Menu-bar app that routes traffic per destination through proxies"
   homepage "https://github.com/ptrinh/proxy-switchboard-dist"
 
   auto_updates true
