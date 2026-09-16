@@ -8,7 +8,7 @@ cask "proxy-switchboard" do
   homepage "https://github.com/ptrinh/proxy-switchboard-dist"
 
   auto_updates true
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Proxy Switchboard.app"
 
