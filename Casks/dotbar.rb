@@ -7,7 +7,7 @@ cask "dotbar" do
   desc "Custom text and colored status dots for the macOS menu bar"
   homepage "https://github.com/ptrinh/DotBar"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "DotBar.app"
 
