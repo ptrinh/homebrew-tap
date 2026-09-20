@@ -1,6 +1,6 @@
 cask "dotbar" do
-  version "0.1.5"
-  sha256 "8104c342fcd440eabb5bd8ddb866e32f3ff02e789edb23561e75a48a1110327d"
+  version "0.1.6"
+  sha256 "0b2e36d7b7351a916ae8714a1b2a05d88fd6684ae79016575e5213100bae6c1e"
 
   url "https://github.com/ptrinh/DotBar/releases/download/v#{version}/DotBar-#{version}.zip"
   name "DotBar"
