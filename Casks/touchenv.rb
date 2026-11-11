@@ -1,6 +1,6 @@
 cask "touchenv" do
-  version "1.7.0"
-  sha256 "cc861dbfa33da46864f24c9c058433dc3b296922e5ffafc7f1106a159ea03989"
+  version "1.7.1"
+  sha256 "5cb688eb7aeb757061cccdd9b61e0fec54babacb1e0520cdfa7851b587e3e70e"
 
   url "https://github.com/ptrinh/touch-env/releases/download/v#{version}/touchenv-#{version}-macos.zip"
   name "touchenv"
