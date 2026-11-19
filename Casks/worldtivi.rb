@@ -1,6 +1,6 @@
 cask "worldtivi" do
-  version "1.0.3"
-  sha256 "4d0ab37b339da43edd38537c6edf8f2311a11343c7eb7a790072a20b87e00730"
+  version "1.0.4"
+  sha256 "1e7ab1f0c02c316487c818cc7b6ba2d2950bd9a4979ac1be993e0b73f7e00f30"
 
   url "https://github.com/ptrinh/worldtivi-public/releases/download/v#{version}/WorldTivi-#{version}-mac-universal.dmg"
   name "World Tivi"
